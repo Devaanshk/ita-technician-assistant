@@ -9,6 +9,10 @@ Built as a working prototype to demonstrate how ITA's 24/7 monitoring,
 service/maintenance, and field-install teams could get instant, cited answers
 instead of digging through PDFs mid-call.
 
+## Live Demo
+
+[Open ITA Technician Assistant](https://ita-technician-assistant.onrender.com)
+
 ## Why this matters for ITA specifically
 
 - ITA installs and supports **4+ major product lines** (Lutron, Sonos, Josh.ai,
